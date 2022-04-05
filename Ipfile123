@@ -217,3 +217,67 @@ http://103.149.130.122:8089/26/index.m3u8
 http://103.149.130.122:8089/70/index.m3u8
 #EXTINF:0,Channel 109
 http://103.149.130.122:8089/72/index.m3u8
+#EXTINF:0,Channel 110
+http://103.55.144.46/hls/sonypixhd.m3u8
+#EXTINF:0,Channel 111
+http://103.55.144.46/hls/starmovies.m3u8
+#EXTINF:0,Channel 112
+http://103.55.144.46/hls/movies-now.m3u8
+#EXTINF:0,Channel 113
+http://103.55.144.46/hls/bbcearth.m3u8
+#EXTINF:0,Channel 114
+http://103.55.144.46/hls/mn+.m3u8
+#EXTINF:0,Channel 114
+http://103.55.144.46/hls/animalplanent.m3u8
+#EXTINF:0,Channel 116
+http://103.55.144.46/hls/discovery.m3u8
+#EXTINF:0,Channel 117
+http://103.55.144.46/hls/ngohd.m3u8
+#EXTINF:0,Channel 118
+http://103.55.144.46/hls/wild.m3u8
+#EXTINF:0,Channel 119
+http://103.55.144.46/hls/mnx-hd.m3u8
+#EXTINF:0,Channel 120
+http://103.55.144.46/hls/bindass.m3u8
+#EXTINF:0,Channel 121
+http://103.55.144.46/hls/utvaction.m3u8
+#EXTINF:0,Channel 122
+http://103.55.144.46/hls/zoom.m3u8
+#EXTINF:0,Channel 123
+http://103.55.144.46/hls/andpictures.m3u8
+#EXTINF:0,Channel 124
+http://103.55.144.46/hls/zeecinemahd.m3u8
+#EXTINF:0,Channel 125
+http://103.55.144.46/hls/colorscineplex.m3u8
+#EXTINF:0,Channel 126
+http://103.55.144.46/hls/sonymax.m3u8
+#EXTINF:0,Channel 127
+http://103.55.144.46/hls/stargold2hd.m3u8
+#EXTINF:0,Channel 129
+http://103.55.144.46/hls/sony-maxhd.m3u8
+#EXTINF:0,Channel 130
+http://103.55.144.46/hls/stargold.m3u8
+#EXTINF:0,Channel 131
+http://103.55.144.46/hls/dhin.m3u8
+#EXTINF:0,Channel 132
+http://103.55.144.46/hls/dis-kid.m3u8
+#EXTINF:0,Channel 133
+http://103.55.144.46/hls/cn.m3u8
+#EXTINF:0,Channel 134
+http://103.55.144.46/hls/pogo.m3u8
+#EXTINF:0,Channel 135
+http://103.55.144.46/hls/sonysix.m3u8
+#EXTINF:0,Channel 136
+http://103.55.144.46/hls/euro.m3u8
+#EXTINF:0,Channel 137
+http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
+#EXTINF:0,Channel 138
+http://103.55.144.46/hls/stersports1hd.m3u8
+#EXTINF:0,Channel 139
+http://103.55.144.46/hls/ptv.m3u8
+#EXTINF:0,Channel 140
+http://103.55.144.46/hls/t-sports.m3u8
+#EXTINF:0,Channel 141
+http://103.55.144.46/hls/select2.m3u8
+#EXTINF:0,Channel 142
+http://103.55.144.46/hls/starsports2.m3u8
